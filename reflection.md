@@ -1,7 +1,9 @@
 # PawPal+ Project Reflection
 
 ## 1. System Design
-
+- the user should be able to enter basic user/pet info
+- the user should be able to add/edit tasks based on duration and priority at minimum
+- the user should be able to generate a daily plan based on constraints and priorities
 **a. Initial design**
 
 - Briefly describe your initial UML design.
